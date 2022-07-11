@@ -42,7 +42,7 @@ console.log(score > 1337 ? 'This is new highscore!' : 'You need more points to b
 
 
 // Rewrite if..else using multiple ternary operators '?'.
-//For readability, it’s recommended to split the code into multiple lines.
+//For readability, it’s recommended to split the code into multiple lines. 
 
 /* let message;
 
